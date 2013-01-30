@@ -1,0 +1,14 @@
+{
+  "name": "derbywars",
+  "description": "",
+  "version": "0.0.0",
+  "main": "./server.js",
+  "dependencies": {
+    "derby": "git://github.com/codeparty/derby#master",
+    "racer": "git://github.com/codeparty/racer#master",
+    "express": "3.0.0beta4",
+    "gzippo": ">=0.1.7",
+    "racer-db-mongo": "~0.3.13-1"
+  },
+  "private": true
+}
