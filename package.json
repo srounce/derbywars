@@ -6,7 +6,7 @@
   "dependencies": {
     "derby": "git://github.com/codeparty/derby#master",
     "racer": "git://github.com/codeparty/racer#master",
-    "express": "3.0.0beta4",
+    "express": "3.0.x",
     "gzippo": ">=0.1.7",
     "racer-db-mongo": "~0.3.13-1"
   },
